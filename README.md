@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-Hi I’m Shane! I’m a software engineer with a passion for solving difficult challenges with code.  I am especially interested in web development, automation testing, gaming, and open source!  Check out my portfolio at [http://shaneslone.me](http://shaneslone.me)!
+Hi I’m Shane! I’m a software engineer with a passion for solving difficult challenges with code.  I am especially interested in web development and gaming.
 
 - 🌱 I’m currently learning ... Typescript
 - 💬 Ask me about ... Anything! I love to talk code.  I also love sports (Broncos, Braves, Lakers fan), video games (World of Warcraft, League of Legends, and much more), movies, TV, and learning about space.
